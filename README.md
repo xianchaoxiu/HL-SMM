@@ -1,6 +1,6 @@
 # HLSMM
 
-The code in this toolbox implements "Heaviside Low-Rank Support Matrix Machine" by <i>X. Xiu, J. Li, X. Li, J. Tao</i>.
+The code in this toolbox implements "Heaviside Low-Rank Support Matrix Machine" by <i>X. Xiu, S. Sun, X. Li, J. Tao</i>.
 
 ### Testing
 Directly run demo.m for reproduction.
